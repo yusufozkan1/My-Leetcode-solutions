@@ -7,7 +7,7 @@
 | **Difficulty** | Easy |
 | **Language** | Python3 |
 | **Runtime** | 0 ms *(beats N/A%)* |
-| **Memory** | 19 MB *(beats N/A%)* |
+| **Memory** | 19.5 MB *(beats N/A%)* |
 | **Solved On** | July 27, 2026 |
 
 ## 🔗 Problem Link
